@@ -6,12 +6,14 @@ Welcome to my personal portfolio website! This website showcases my skills, proj
 
    - About Me
    - Skills Used
-   - Projects
+   - Projects Showcased
    - Contact
 
 ## **About Me**
 
-I am a passionate web developer with a strong background in HTML and CSS. I love creating visually appealing and user-friendly websites. My goal is to combine creativity and technical skills to build unique and innovative web experiences.
+With my degree and previous professional experience, I have a strong foundations in programming, collaboration, and data-driven design. I am passionate about creating engaging and accessible digital experiences that solve real-world problems and benefit the society.
+
+As a consultant at Capgemini, I applied my skills in web design, user experience and content management systems to deliver high-quality solutions for various clients across different industries. I contributed to the design, development, and testing of web applications, websites, and digital platforms, ensuring they met the user needs and business requirements. I also supported the project management and communication processes, collaborating with other consultants, developers, and stakeholders. I enhanced my knowledge and expertise in the UX design process, wireframes, and prototypes by completing multiple UX design certifications. I am motivated to learn new technologies and tools, and to continuously improve my professional skills and competencies.
 
 ## **Skills Used**
    - HTML
@@ -21,7 +23,7 @@ I am a passionate web developer with a strong background in HTML and CSS. I love
    - CSS Grid
    - Git & GitHub
 
-## **Projects**
+## **Projects Showcased**
 
 **Project 1**: Project Name 1
 
