@@ -4,19 +4,18 @@ Welcome to my personal portfolio website! This website showcases my skills, proj
 
 **Table of Contents:**
 
-   - About Me
-   - [link](#1-about-me)
-   - Skills Used
-   - Projects Showcased
-   - Contact Me
+   - [About Me](about-me)
+   - [Skills Used](skills-used)
+   - [Projects Showcased](projects-showcased)
+   - [Contact Me](contact-me)
 
-## 1. **About Me**
+## **About Me**
 
 With my degree and previous professional experience, I have a strong foundations in programming, collaboration, and data-driven design. I am passionate about creating engaging and accessible digital experiences that solve real-world problems and benefit our society.
 
 As a consultant at Capgemini, I applied my skills in web design, user experience and content management systems to deliver high-quality solutions for various clients across different industries. I contributed to the design, development, and testing of web applications, websites, and digital platforms, ensuring they met the user needs and business requirements. I also supported the project management and communication processes, collaborating with other consultants, developers, and stakeholders. I enhanced my knowledge and expertise in the UX design process, wireframes, and prototypes by completing multiple UX design certifications. I am motivated to learn new technologies and tools, and to continuously improve my professional skills and competencies.
 
-## 2. **Skills Used**
+## **Skills Used**
    - HTML
    - CSS
    - Javascript
@@ -25,7 +24,7 @@ As a consultant at Capgemini, I applied my skills in web design, user experience
    - CSS Grid
    - Git & GitHub
 
-## 3. **Projects Showcased**
+## **Projects Showcased**
 
 **Project 1**: Project Name 1
 
@@ -51,7 +50,7 @@ Brief description of the project. Add a screenshot or demo GIF if possible.
 
 Feel free to check out the Projects section of the website for more details on each project.
 
-## 4. **Contact Me**
+## **Contact Me**
 
 If you would like to get in touch with me, you can reach out via email at groberth@live.com or connect with me on LinkedIn.
 
