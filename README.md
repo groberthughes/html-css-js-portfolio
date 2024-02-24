@@ -1,10 +1,11 @@
 # ****Portfolio Website****
 
 Welcome to my personal portfolio website! This website showcases my skills, projects, and experience as a web developer. Feel free to explore and learn more about me.
+
 **Table of Contents:**
 
    - About Me
-   - Skills
+   - Skills Used
    - Projects
    - Contact
 
@@ -12,7 +13,7 @@ Welcome to my personal portfolio website! This website showcases my skills, proj
 
 I am a passionate web developer with a strong background in HTML and CSS. I love creating visually appealing and user-friendly websites. My goal is to combine creativity and technical skills to build unique and innovative web experiences.
 
-## **Skills**
+## **Skills Used**
    - HTML
    - CSS
    - Responsive Web Design
