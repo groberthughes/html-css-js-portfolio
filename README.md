@@ -4,10 +4,10 @@ Welcome to my personal portfolio website! This website showcases my skills, proj
 
 **Table of Contents:**
 
-   - [About Me](about-me)
-   - [Skills Used](skills-used)
-   - [Projects Showcased](projects-showcased)
-   - [Contact Me](contact-me)
+   [About Me](#about-me)
+   [Skills Used](#skills-used)
+   [Projects Showcased](#projects-showcased)
+   [Contact Me](#contact-me)
 
 ## **About Me**
 
