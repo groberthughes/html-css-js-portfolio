@@ -18,6 +18,7 @@ As a consultant at Capgemini, I applied my skills in web design, user experience
 ## **Skills Used**
    - HTML
    - CSS
+   - Javascript
    - Responsive Web Design
    - Flexbox
    - CSS Grid
