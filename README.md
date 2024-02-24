@@ -1,14 +1,14 @@
-****Portfolio Website****
+# ****Portfolio Website****
 
 Welcome to my personal portfolio website! This website showcases my skills, projects, and experience as a web developer. Feel free to explore and learn more about me.
 Table of Contents
 
-    About Me
-    Skills
-    Projects
-    Contact
+    **About Me**
+    **Skills**
+    **Projects**
+    **Contact**
 
-**About Me**
+## **About Me**
 
 I am a passionate web developer with a strong background in HTML and CSS. I love creating visually appealing and user-friendly websites. My goal is to combine creativity and technical skills to build unique and innovative web experiences.
 Skills
@@ -20,9 +20,9 @@ Skills
     CSS Grid
     Git & GitHub
 
-**Projects**
+## **Projects**
 
-Project 1: Project Name 1
+**Project 1**: Project Name 1
 
 Brief description of the project. Add a screenshot or demo GIF if possible.
 
@@ -30,7 +30,7 @@ html
 
 <!-- Code snippet related to the project if you want to showcase it -->
 
-Project 2: Project Name 2
+**Project 2**: Project Name 2
 
 Brief description of the project. Add a screenshot or demo GIF if possible.
 
@@ -40,7 +40,7 @@ html
 
 Feel free to check out the Projects section for more details on each project.
 
-**Contact**
+## **Contact**
 
 If you would like to get in touch with me, you can reach out via email at groberth@live.com or connect with me on LinkedIn.
 
