@@ -7,7 +7,7 @@ Welcome to my personal portfolio website! This website showcases my skills, proj
    - About Me
    - Skills Used
    - Projects Showcased
-   - Contact
+   - Contact Me
 
 ## **About Me**
 
@@ -49,7 +49,7 @@ Brief description of the project. Add a screenshot or demo GIF if possible.
 
 Feel free to check out the Projects section of the website for more details on each project.
 
-## **Contact**
+## **Contact Me**
 
 If you would like to get in touch with me, you can reach out via email at groberth@live.com or connect with me on LinkedIn.
 
