@@ -6,7 +6,7 @@ Welcome to my personal portfolio website! This website showcases my skills, proj
 
    - [About Me](#about-me)
    - [Skills Used](#skills-used)
-   - [Projects Showcased](#projects-showcased)
+   - [Other Projects Showcased](#other-projects-showcased)
    - [Contact Me](#contact-me)
 
 ## **About Me**
@@ -24,7 +24,7 @@ As a consultant at Capgemini, I applied my skills in web design, user experience
    - CSS Grid
    - Git & GitHub
 
-## **Projects Showcased**
+## **Other Projects Showcased**
 
 **Project 1**: Project Name 1
 
