@@ -26,22 +26,20 @@ As a consultant I applied my skills in web design, user experience and content m
 
 ## **Other Projects Showcased**
 
-**Project 1**: Project Name 1
+**Project 1**: Spotify Profile Extended
 
-Brief description of the project. Add a screenshot or demo GIF if possible.
+Spotify Profile Extended
 
-    HTML code snippet related to the project if you want to showcase it
     .
     .
     .
     .
     .
 
-**Project 2**: Project Name 2
+**Project 2**: Ski Events App
 
-Brief description of the project. Add a screenshot or demo GIF if possible.
+Ski Events App
 
-    HTML code snippet related to the project if you want to showcase it
     .
     .
     .
