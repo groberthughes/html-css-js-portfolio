@@ -30,10 +30,10 @@ As a consultant I applied my skills in web design, user experience and content m
 
 Spotify Profile Extended
 
-    .
-    .
-    .
-    .
+    .Web application used to visualize personalized Spotify data.
+    .App features include:
+    . - Top Artists & Top Songs with multiple time filters
+    . - Public Album listing and sorting by: Danceability, Tempo, and Energy
     .
 
 **Project 2**: Ski Events App
